@@ -17,3 +17,5 @@ tdl l/h $1 ft $qnh
 tdr r/h $1 ft $qnh
 tl T/L hdg $1
 tr T/R hdg $1
+vac vacate immediately the RunWay (or disconnect now) one Aircraft is on Final
+wind $winds Wind 
