@@ -2,7 +2,8 @@
 
 ## LFBL (Limoges Bellegarde)
 
-* Mise à jour du secteur selon les AIRACS 2018/01
+* Mise à jour du secteur selon les AIRACS 1810
+* Supression de la STAR LCA (LFBL)
 
 ## LFSL (Brive Souillac)
 
