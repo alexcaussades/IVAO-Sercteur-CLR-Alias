@@ -1,3 +1,8 @@
+**28 Octobre 2018**
+
+- Mise a jour de la fréquence de Limoges Approach
+- rajout de la fréquence de brive tower
+
 **01 janvier 2018**
 
 - Mise a jour du **secteur de la SIV de limoges**

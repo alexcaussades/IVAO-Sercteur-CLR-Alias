@@ -2,6 +2,7 @@
 
 ## LFBL (Limoges Bellegarde)
 
+* Changement de fréquences Limoges approach
 * Mise à jour du secteur selon les AIRACS 1810
 * Suppression de la **STAR LCA (LFBL)**
 
