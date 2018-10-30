@@ -31,3 +31,5 @@ Celui-ci et personnelle mes je vous le laisse à votre disposition !
 ## Alias
 
 Ce sont des raccourcis radipe de pour informer les personnes en vol ou pour les messages textes information pratique le système **ACARS MESSAGE** et opérationnelle.
+
+![configuration serveur](https://i.imgur.com/0rswJZA.png)
